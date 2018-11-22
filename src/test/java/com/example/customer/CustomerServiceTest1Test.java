@@ -24,6 +24,7 @@ public class CustomerServiceTest1Test {
         //assertEquals(24, businessImpl.findAll());
         Customer cus =  new Customer();
         System.out.print(cus.toString());
+        System.out.print("test");
 
 
     }
